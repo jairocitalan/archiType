@@ -1,0 +1,8 @@
+com\coinMex\architecture\mx\AppApplication.class
+com\coinMex\architecture\mx\dao\UsuariosDAO.class
+com\coinMex\architecture\mx\services\UsuariosServiceImpl$1.class
+com\coinMex\architecture\mx\services\UsuariosServiceImpl.class
+com\coinMex\architecture\mx\controller\UsuariosRest.class
+com\coinMex\architecture\mx\services\UsuariosServices.class
+com\coinMex\architecture\mx\controller\UsuariosRestImpl.class
+com\coinMex\architecture\mx\model\UsuariosDO.class
